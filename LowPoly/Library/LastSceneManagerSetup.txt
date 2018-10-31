@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene Saves/LowPoly.unity
+  isLoaded: 1
+  isActive: 1
