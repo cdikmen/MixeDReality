@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 57
+  controlID: 122
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -89,8 +89,8 @@ MonoBehaviour:
     y: 0
     width: 202
     height: 716
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -252,8 +252,8 @@ MonoBehaviour:
     y: 0
     width: 1329
     height: 716
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -325,19 +325,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/AxeyWorks/Low Poly v2
+    - Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/AxeyWorks/Low Poly v2
+  - Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Programme\Unity\Projekte\LowPoly
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: da370000
-    m_LastClickedID: 14298
-    m_ExpandedIDs: 0000000034280000dc280000ec290000302b0000aa2c0000de2d00000e3100007c3100006e320000743200003833000010360000da37000084380000da3800006c390000d03b0000da3b0000ea3c00001c3d000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 343}
+    m_SelectedIDs: 1c330000
+    m_LastClickedID: 13084
+    m_ExpandedIDs: 0000000034280000dc280000ec290000ac2c0000103100007e3100007632000014360000e23700008c380000d83b0000e23b0000243d000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -365,7 +365,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000034280000dc280000ec290000302b0000aa2c0000de2d00000e3100007c3100006e320000743200003833000010360000da37000084380000da3800006c390000d03b0000da3b0000ea3c00001c3d0000
+    m_ExpandedIDs: 0000000034280000dc280000ec290000322b0000ac2c0000e02d0000103100007e31000070320000763200003a33000014360000e23700008c380000e238000074390000d83b0000e23b0000f23c0000243d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -417,7 +417,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 273}
+    m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
@@ -481,9 +481,9 @@ MonoBehaviour:
     height: 695
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2a4d0000
-    m_LastClickedID: 19754
-    m_ExpandedIDs: a0f9ffff00000000
+    m_SelectedIDs: 9a3e0000
+    m_LastClickedID: 16026
+    m_ExpandedIDs: 62fbffffa0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -538,9 +538,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 184.17104, y: 116.9301, z: 340.79218}
+    m_Target: {x: 254.99976, y: 66.296906, z: 323.8731}
     speed: 2
-    m_Value: {x: 184.17104, y: 116.9301, z: 340.79218}
+    m_Value: {x: 254.99976, y: 66.296906, z: 323.8731}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -563,13 +563,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.15030493, y: -0.8472495, z: 0.32363525, w: -0.39349318}
+    m_Target: {x: -0.16888708, y: -0.82679, z: 0.4229821, w: -0.33012363}
     speed: 2
-    m_Value: {x: -0.15030493, y: -0.8472495, z: 0.32363525, w: -0.39349318}
+    m_Value: {x: -0.16888708, y: -0.82679, z: 0.4229821, w: -0.33012363}
   m_Size:
-    m_Target: 254.47218
+    m_Target: 213.56561
     speed: 2
-    m_Value: 254.47218
+    m_Value: 213.56561
   m_Ortho:
     m_Target: 0
     speed: 2
